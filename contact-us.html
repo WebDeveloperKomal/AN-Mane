@@ -15,7 +15,7 @@
 <![endif]-->
     <title>AN MANE &#8211; ContactUs</title>
     <link rel="stylesheet" href="assets/css/style.css">
-<script src="contact-us.js"></script>
+    <script src="contact-us.js"></script>
 
     <link rel="dns-prefetch" href="//fonts.googleapis.com" />
     <link rel="dns-prefetch" href="//s.w.org" />
@@ -162,7 +162,7 @@
 
     <!-- SweetAlert JS -->
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.all.min.js"></script>
-    
+
     <style type="text/css" title="dynamic-css" class="options-output">
         body {
             font-family: Lato;
@@ -473,7 +473,7 @@
                 </div>
             </div>
         </header>
-        <div id="search_popup_wrapper" class="dialog">
+        <div id="get_quote_popup" class="dialog">
             <div class="dialog__overlay"></div>
             <div class="dialog__content">
                 <div class="morph-shape">
@@ -483,12 +483,25 @@
                     </svg>
                 </div>
                 <div class="dialog-inner">
-                    <h2>Enter your keyword</h2>
-                    <form method="get" action="https://themes.g5plus.net/darna" class="search-popup-inner">
-                        <input type="text" name="s" placeholder="Search...">
-                        <button type="submit">Search</button>
-                    </form>
-                    <div><button class="action" data-dialog-close="close" type="button"><i
+                    <h2>Get a quote</h2>
+                    <div class="mail-chimp-popup">
+                        <form id="subscription-form" class="mc4wp-form mc4wp-form-862 mc4wp-form-basic" method="post"
+                            data-id="862" data-name="Default sign-up form">
+                            <div class="mc4wp-form-fields">
+                                <div class="mail-chimp-wrapper">
+                                    <p>Enter your email address for our mailing list to keep yourself updated with our
+                                        latest news.</p>
+                                    <div class="mail-chimp-button">
+                                        <input type="email" id="email" name="email" placeholder="Email Address"
+                                            required>
+                                        <button type="submit" id="submitBtn"><i class="fa fa-paper-plane"></i></button>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+                    <div><button type="button" class="action" data-dialog-close="close"><i
                                 class="fa fa-close"></i></button></div>
                 </div>
             </div>
@@ -661,7 +674,7 @@
                                                                             <form method="post" class="wpcf7-form"
                                                                                 novalidate="novalidate"
                                                                                 id="contact-form">
-                                                                              
+
                                                                                 <div class="darna-contact-form row">
                                                                                     <div class="col-md-6">
                                                                                         <span
@@ -1048,6 +1061,7 @@
 <script type='text/javascript' src='https://themes.g5plus.net/darna/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js?ver=4.7.4'></script>
 <![endif]-->
     <script>jQuery("style#g5plus_custom_style").append("@media screen and (min-width: 992px) {}");</script>
+    <script src="assets/js/Quote.js"></script>
 </body>
 
 </html>

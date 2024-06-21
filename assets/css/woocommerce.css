@@ -2178,17 +2178,17 @@ p.demo_store a {
     padding: 1em
 }
 
-#add_payment_method .cart-collaterals .shipping-calculator-button,
-.woocommerce-cart .cart-collaterals .shipping-calculator-button,
-.woocommerce-checkout .cart-collaterals .shipping-calculator-button {
+#add_payment_method .cart-collaterals .shipping-calcuMontserratr-button,
+.woocommerce-cart .cart-collaterals .shipping-calcuMontserratr-button,
+.woocommerce-checkout .cart-collaterals .shipping-calcuMontserratr-button {
     float: none;
     margin-top: .5em;
     display: inline-block
 }
 
-#add_payment_method .cart-collaterals .shipping-calculator-button::after,
-.woocommerce-cart .cart-collaterals .shipping-calculator-button::after,
-.woocommerce-checkout .cart-collaterals .shipping-calculator-button::after {
+#add_payment_method .cart-collaterals .shipping-calcuMontserratr-button::after,
+.woocommerce-cart .cart-collaterals .shipping-calcuMontserratr-button::after,
+.woocommerce-checkout .cart-collaterals .shipping-calcuMontserratr-button::after {
     font-family: WooCommerce;
     speak: none;
     font-weight: 400;
@@ -2201,9 +2201,9 @@ p.demo_store a {
     text-decoration: none
 }
 
-#add_payment_method .cart-collaterals .shipping-calculator-form,
-.woocommerce-cart .cart-collaterals .shipping-calculator-form,
-.woocommerce-checkout .cart-collaterals .shipping-calculator-form {
+#add_payment_method .cart-collaterals .shipping-calcuMontserratr-form,
+.woocommerce-cart .cart-collaterals .shipping-calcuMontserratr-form,
+.woocommerce-checkout .cart-collaterals .shipping-calcuMontserratr-form {
     margin: 1em 0 0
 }
 

@@ -388,30 +388,30 @@
     width: 48%
 }
 
-.woocommerce .cart-collaterals .shipping_calculator,
-.woocommerce-page .cart-collaterals .shipping_calculator {
+.woocommerce .cart-collaterals .shipping_calcuMontserratr,
+.woocommerce-page .cart-collaterals .shipping_calcuMontserratr {
     width: 48%;
     clear: right;
     float: right
 }
 
-.woocommerce .cart-collaterals .shipping_calculator::after,
-.woocommerce .cart-collaterals .shipping_calculator::before,
-.woocommerce-page .cart-collaterals .shipping_calculator::after,
-.woocommerce-page .cart-collaterals .shipping_calculator::before {
+.woocommerce .cart-collaterals .shipping_calcuMontserratr::after,
+.woocommerce .cart-collaterals .shipping_calcuMontserratr::before,
+.woocommerce-page .cart-collaterals .shipping_calcuMontserratr::after,
+.woocommerce-page .cart-collaterals .shipping_calcuMontserratr::before {
     content: ' ';
     display: table
 }
 
-.woocommerce .cart-collaterals .shipping_calculator::after,
-.woocommerce-page .cart-collaterals .shipping_calculator::after {
+.woocommerce .cart-collaterals .shipping_calcuMontserratr::after,
+.woocommerce-page .cart-collaterals .shipping_calcuMontserratr::after {
     clear: both
 }
 
-.woocommerce .cart-collaterals .shipping_calculator .col2-set .col-1,
-.woocommerce .cart-collaterals .shipping_calculator .col2-set .col-2,
-.woocommerce-page .cart-collaterals .shipping_calculator .col2-set .col-1,
-.woocommerce-page .cart-collaterals .shipping_calculator .col2-set .col-2 {
+.woocommerce .cart-collaterals .shipping_calcuMontserratr .col2-set .col-1,
+.woocommerce .cart-collaterals .shipping_calcuMontserratr .col2-set .col-2,
+.woocommerce-page .cart-collaterals .shipping_calcuMontserratr .col2-set .col-1,
+.woocommerce-page .cart-collaterals .shipping_calcuMontserratr .col2-set .col-2 {
     width: 47%
 }
 

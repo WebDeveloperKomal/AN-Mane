@@ -2288,7 +2288,7 @@ span.darna-slider-border-bottom:after {
 
     header.main-header .menu-wrapper .x-nav-menu li>ul.x-sub-menu {
         border: solid 1px #eee;
-        font-family: 'Lato';
+        font-family: "Montserrat", sans-serif;
         background-color: #f8f8f8
     }
 
@@ -2325,7 +2325,7 @@ span.darna-slider-border-bottom:after {
 
     header.main-header .menu-wrapper .x-nav-menu ul.x-sub-menu-multi-column>li.x-menu-item>a.x-menu-a-text {
         font-weight: 400;
-        font-family: 'Oswald';
+        font-family: "Montserrat", sans-serif;
         font-size: 16px;
         letter-spacing: 0.01em;
         position: relative;
@@ -2364,7 +2364,7 @@ span.darna-slider-border-bottom:after {
     }
 
     header.main-header .menu-wrapper .x-nav-menu ul.x-sub-menu-multi-column>li.x-menu-item.x-tabs>ul.x-sub-menu-tab>li>a.x-menu-a-text {
-        font-family: 'Oswald';
+        font-family: "Montserrat", sans-serif;
         border-bottom: solid 1px #eee
     }
 
@@ -2680,7 +2680,7 @@ span.darna-slider-border-bottom:after {
 
     header.header-3 .main-menu-custom-text>span {
         font-size: 34px;
-        font-family: 'Oswald';
+        font-family: "Montserrat", sans-serif;
         font-weight: bold;
         display: inline-block;
         vertical-align: middle;
@@ -2845,7 +2845,7 @@ span.darna-slider-border-bottom:after {
     border: solid 1px #eee;
     border-top: solid 2px #fe4800;
     padding: 0;
-    font-family: 'Lato';
+    font-family: "Montserrat", sans-serif;
     line-height: 2em
 }
 
@@ -3393,7 +3393,7 @@ span.darna-slider-border-bottom:after {
     }
 
     header.main-header .header-mobile-2 .toggle-icon-wrapper .toggle-icon+span {
-        font-family: Oswald;
+        font-family: "Montserrat", sans-serif;
         font-size: 18px;
         display: inline-block;
         vertical-align: middle;
@@ -3693,7 +3693,7 @@ footer.main-footer-wrapper .footer-above-wrapper {
 }
 
 footer.main-footer-wrapper h4.widget-title {
-    font-family: 'Lato';
+    font-family: "Montserrat", sans-serif;
     font-size: 16px;
     font-weight: 400;
     letter-spacing: 0.02em;
@@ -4596,7 +4596,7 @@ h4.widget-title:after {
 
 .sidebar .widget-text-intro {
     font-size: 30px;
-    font-family: Oswald;
+    font-family: "Montserrat", sans-serif;
     text-align: center;
     border: dashed 3px #c5c5c5;
     padding: 55px 10px;
@@ -5153,8 +5153,9 @@ h4.widget-title:after {
     transition: all .2s linear;
     text-transform: uppercase;
     border: 2px solid;
-    padding: 5px 20px;
+    padding: 5px 10px;
     font-size: 13px;
+    border-radius: 20px;
     background-color: #fe4800;
     border-color: #fe4800;
     color: #fff
@@ -6851,7 +6852,7 @@ p.return-to-shop {
 }
 
 .woocommerce table.shop_table.cart thead th {
-    font-family: 'Oswald';
+    font-family: "Montserrat", sans-serif;
     font-size: 16px;
     letter-spacing: 0.02em;
     line-height: 20px;
@@ -6970,11 +6971,11 @@ p.return-to-shop {
 }
 
 .woocommerce-cart table.cart td.actions .button,
-.woocommerce-shipping-calculator .button,
+.woocommerce-shipping-calcuMontserratr .button,
 .woocommerce-cart table.cart td.actions input.button,
-.woocommerce-shipping-calculator input.button,
+.woocommerce-shipping-calcuMontserratr input.button,
 .woocommerce-cart table.cart td.actions button.button,
-.woocommerce-shipping-calculator button.button {
+.woocommerce-shipping-calcuMontserratr button.button {
     color: #FFF;
     font-size: 12px;
     background-color: #222;
@@ -6989,28 +6990,28 @@ p.return-to-shop {
 }
 
 .woocommerce-cart table.cart td.actions .button:hover,
-.woocommerce-shipping-calculator .button:hover,
+.woocommerce-shipping-calcuMontserratr .button:hover,
 .woocommerce-cart table.cart td.actions input.button:hover,
-.woocommerce-shipping-calculator input.button:hover,
+.woocommerce-shipping-calcuMontserratr input.button:hover,
 .woocommerce-cart table.cart td.actions button.button:hover,
-.woocommerce-shipping-calculator button.button:hover {
+.woocommerce-shipping-calcuMontserratr button.button:hover {
     background-color: #fe4800;
     color: #fff
 }
 
 .woocommerce-cart table.cart td.actions .wc-forward,
-.woocommerce-shipping-calculator .wc-forward {
+.woocommerce-shipping-calcuMontserratr .wc-forward {
     background-color: #fe4800
 }
 
 .woocommerce-cart table.cart td.actions .wc-forward:hover,
-.woocommerce-shipping-calculator .wc-forward:hover {
+.woocommerce-shipping-calcuMontserratr .wc-forward:hover {
     background-color: #222
 }
 
-.woocommerce-shipping-calculator .button,
-.woocommerce-shipping-calculator input.button,
-.woocommerce-shipping-calculator button.button {
+.woocommerce-shipping-calcuMontserratr .button,
+.woocommerce-shipping-calcuMontserratr input.button,
+.woocommerce-shipping-calcuMontserratr button.button {
     padding: 8px 15px;
     width: 100%
 }
@@ -7042,7 +7043,7 @@ p.return-to-shop {
 
 .woocommerce .cart-collaterals .cart_totals_inner,
 .woocommerce-page .cart-collaterals .cart_totals_inner,
-.woocommerce-shipping-calculator {
+.woocommerce-shipping-calcuMontserratr {
     float: left;
     width: 50%;
     padding: 0 15px;
@@ -7054,19 +7055,19 @@ p.return-to-shop {
     float: left
 }
 
-.woocommerce-shipping-calculator {
+.woocommerce-shipping-calcuMontserratr {
     float: right
 }
 
-.shipping-calculator-form {
+.shipping-calcuMontserratr-form {
     display: block !important
 }
 
-.shipping-calculator-form .form-row {
+.shipping-calcuMontserratr-form .form-row {
     margin-bottom: 6px !important
 }
 
-.shipping-calculator-form p {
+.shipping-calcuMontserratr-form p {
     margin-bottom: 0
 }
 
@@ -7493,7 +7494,7 @@ p.return-to-shop {
     }
 
     .woocommerce-cart table.cart td.actions .checkout-button,
-    .woocommerce-shipping-calculator .checkout-button {
+    .woocommerce-shipping-calcuMontserratr .checkout-button {
         margin-left: 5px
     }
 
@@ -7538,7 +7539,7 @@ p.return-to-shop {
     }
 
     .woocommerce .cart-collaterals .cart_totals_inner,
-    .woocommerce-shipping-calculator {
+    .woocommerce-shipping-calcuMontserratr {
         float: none;
         width: 100%;
         padding: 0
@@ -8040,7 +8041,7 @@ p.return-to-shop {
 
 .darna-feature.style1 .darna-feature-content h4 {
     margin: 21px 0 20px 0;
-    font-family: 'Oswald';
+    font-family: "Montserrat", sans-serif;
     font-size: 21px;
     font-weight: 400
 }
@@ -8052,7 +8053,7 @@ p.return-to-shop {
 }
 
 .darna-feature.style1 .darna-feature-content h4 a {
-    font-family: inherit;
+    font-family: "Montserrat", sans-serif;
     font-size: inherit;
     font-weight: inherit;
     color: #222;
@@ -8076,7 +8077,7 @@ p.return-to-shop {
 }
 
 .darna-heading h2 {
-    font-family: 'Oswald';
+    font-family: "Montserrat", sans-serif;
     font-size: 48px;
     font-weight: 400;
     color: #222;
@@ -8103,7 +8104,7 @@ p.return-to-shop {
 }
 
 .darna-heading p {
-    font-family: 'Lato';
+    font-family: "Montserrat", sans-serif;
     font-size: 14px;
     font-weight: 400;
     color: #616161;
@@ -8183,7 +8184,7 @@ p.return-to-shop {
 
 .darna-icon-box.style1 h3,
 .darna-icon-box.style2 h3 {
-    font-family: 'Oswald';
+    font-family: "Montserrat", sans-serif;
     font-size: 21px;
     padding-top: 19px;
     margin: 0
@@ -8191,7 +8192,7 @@ p.return-to-shop {
 
 .darna-icon-box.style1 h3 a,
 .darna-icon-box.style2 h3 a {
-    font-family: inherit;
+    font-family: "Montserrat", sans-serif;
     font-size: inherit;
     color: #222;
     line-height: 1;
@@ -8205,7 +8206,7 @@ p.return-to-shop {
 
 .darna-icon-box.style1 p,
 .darna-icon-box.style2 p {
-    font-family: 'Lato';
+    font-family: "Montserrat", sans-serif;
     font-size: 14px;
     color: #8f8f8f;
     line-height: 1.71;
@@ -8270,7 +8271,7 @@ p.return-to-shop {
 }
 
 .darna-icon-box.style3 h3 {
-    font-family: 'Oswald';
+    font-family: "Montserrat", sans-serif;
     font-size: 32px;
     line-height: 1;
     margin: 0;
@@ -8280,7 +8281,7 @@ p.return-to-shop {
 }
 
 .darna-icon-box.style3 h3 a {
-    font-family: inherit;
+    font-family: "Montserrat", sans-serif;
     font-size: inherit;
     color: #222;
     text-transform: uppercase
@@ -8291,7 +8292,7 @@ p.return-to-shop {
 }
 
 .darna-icon-box.style3 p {
-    font-family: 'Lato';
+    font-family: "Montserrat", sans-serif;
     font-size: 14px;
     color: #8f8f8f;
     line-height: 1.71;
@@ -8310,7 +8311,7 @@ p.return-to-shop {
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     border-radius: 50%;
-    background-color: #222;
+    background-color: #fe4800;
     margin-left: auto;
     margin-right: auto;
     -webkit-transition: all .2s linear;
@@ -8332,7 +8333,7 @@ p.return-to-shop {
 }
 
 .darna-icon-box.style4:hover .ibox-icon {
-    background-color: #fe4800;
+    background-color: #222;
     text-decoration: none
 }
 
@@ -8341,7 +8342,7 @@ p.return-to-shop {
 }
 
 .darna-icon-box.style4 h3 {
-    font-family: 'Oswald';
+    font-family: "Montserrat", sans-serif;
     font-size: 18px;
     color: #222;
     padding-top: 30px;
@@ -8350,7 +8351,7 @@ p.return-to-shop {
 }
 
 .darna-icon-box.style4 h3 a {
-    font-family: inherit;
+    font-family: "Montserrat", sans-serif;
     font-size: inherit;
     color: #222;
     line-height: 1;
@@ -8362,7 +8363,7 @@ p.return-to-shop {
 }
 
 .darna-icon-box.style4 p {
-    font-family: 'Lato';
+    font-family: "Montserrat", sans-serif;
     font-size: 14px;
     color: #8f8f8f;
     line-height: 1.86;
@@ -8410,7 +8411,7 @@ p.return-to-shop {
 
 .darna-icon-box.style5 h3 {
     padding-left: 100px;
-    font-family: 'Oswald';
+    font-family: "Montserrat", sans-serif;
     font-size: 21px;
     color: #222;
     margin: 0;
@@ -8419,7 +8420,7 @@ p.return-to-shop {
 }
 
 .darna-icon-box.style5 h3 a {
-    font-family: inherit;
+    font-family: "Montserrat", sans-serif;
     font-size: inherit;
     color: inherit;
     line-height: inherit;
@@ -8433,7 +8434,7 @@ p.return-to-shop {
 
 .darna-icon-box.style5 p {
     padding-left: 100px;
-    font-family: 'Lato';
+    font-family: "Montserrat", sans-serif;
     font-size: 14px;
     color: #8f8f8f;
     line-height: 1.71;
@@ -8465,7 +8466,7 @@ p.return-to-shop {
 }
 
 .darna-icon-box.style6 h3 {
-    font-family: 'Oswald';
+    font-family: "Montserrat", sans-serif;
     font-size: 18px;
     line-height: 1.11;
     overflow: hidden;
@@ -8475,7 +8476,7 @@ p.return-to-shop {
 }
 
 .darna-icon-box.style6 h3 a {
-    font-family: inherit;
+    font-family: "Montserrat", sans-serif;
     font-size: inherit;
     color: #222;
     text-transform: uppercase
@@ -8486,7 +8487,7 @@ p.return-to-shop {
 }
 
 .darna-icon-box.style6 p {
-    font-family: 'Lato';
+    font-family: "Montserrat", sans-serif;
     font-size: 14px;
     color: #8f8f8f;
     line-height: 1.71;
@@ -8567,7 +8568,7 @@ p.return-to-shop {
 }
 
 .darna-ourteam.style1 .ourteam-item .ourteam-info p {
-    font-family: 'Oswald';
+    font-family: "Montserrat", sans-serif;
     font-size: 18px;
     color: #292929;
     line-height: 1;
@@ -8583,7 +8584,7 @@ p.return-to-shop {
 }
 
 .darna-ourteam.style1 .ourteam-item .ourteam-info span {
-    font-family: 'Lato';
+    font-family: "Montserrat", sans-serif;
     font-size: 11px;
     color: #8f8f8f;
     line-height: 1;
@@ -8665,7 +8666,7 @@ p.return-to-shop {
 }
 
 .secondary-font {
-    font-family: 'Oswald'
+    font-family:Montserrat
 }
 
 .menu-font {
@@ -8673,7 +8674,7 @@ p.return-to-shop {
 }
 
 .primary-font {
-    font-family: 'Lato'
+    font-family: 'Montserrat'
 }
 
 .primary-color {
@@ -9933,7 +9934,7 @@ body.boxed .portfolio-item .entry-thumbnail .entry-hover-wrapper .entry-hover-in
 }
 
 .darna-post .darna-post-content>a {
-    font-family: 'Oswald';
+    font-family: "Montserrat", sans-serif;
     font-size: 18px;
     font-weight: 400;
     line-height: 1.11;
@@ -9950,7 +9951,7 @@ body.boxed .portfolio-item .entry-thumbnail .entry-hover-wrapper .entry-hover-in
 }
 
 .darna-post .darna-post-content p {
-    font-family: 'Lato';
+    font-family: "Montserrat", sans-serif;
     font-size: 14px;
     font-weight: 400;
     color: #8f8f8f;
@@ -9976,7 +9977,7 @@ body.boxed .portfolio-item .entry-thumbnail .entry-hover-wrapper .entry-hover-in
     color: inherit;
     font-size: inherit;
     font-weight: 400;
-    font-family: 'Lato';
+    font-family: "Montserrat", sans-serif;
     font-style: italic;
     padding-left: 8px;
     text-transform: uppercase
@@ -10148,7 +10149,7 @@ body.boxed .portfolio-item .entry-thumbnail .entry-hover-wrapper .entry-hover-in
 
 .video-content-inner h2 {
     color: #FFFFFF;
-    font-family: 'Oswald';
+    font-family: "Montserrat", sans-serif;
     font-size: 42px;
     text-transform: uppercase;
     padding-top: 35px;
@@ -10157,7 +10158,7 @@ body.boxed .portfolio-item .entry-thumbnail .entry-hover-wrapper .entry-hover-in
 
 .video-content-inner p {
     color: #FFFFFF;
-    font-family: 'Lato';
+    font-family: "Montserrat", sans-serif;
     font-size: 16px;
     line-height: 1.61;
     max-width: 573px;
@@ -10216,7 +10217,7 @@ body.boxed .portfolio-item .entry-thumbnail .entry-hover-wrapper .entry-hover-in
 }
 
 .darna-testimonial.style1 h6 {
-    font-family: 'Lato';
+    font-family: "Montserrat", sans-serif;
     font-size: 14px;
     line-height: 1;
     color: #ffffff;
@@ -10225,7 +10226,7 @@ body.boxed .portfolio-item .entry-thumbnail .entry-hover-wrapper .entry-hover-in
 }
 
 .darna-testimonial.style1 span {
-    font-family: 'Lato';
+    font-family: "Montserrat", sans-serif;
     font-size: 12px;
     line-height: 1;
     color: #8F8F8F;
@@ -10237,7 +10238,7 @@ body.boxed .portfolio-item .entry-thumbnail .entry-hover-wrapper .entry-hover-in
     margin: 0;
     padding: 0;
     min-height: 133px;
-    font-family: 'Lato';
+    font-family: "Montserrat", sans-serif;
     font-size: 21px;
     font-style: italic;
     line-height: 1.71;
@@ -10308,7 +10309,7 @@ body.boxed .portfolio-item .entry-thumbnail .entry-hover-wrapper .entry-hover-in
 
 .darna-testimonial.style2 h6,
 .darna-testimonial.style3 h6 {
-    font-family: 'Lato';
+    font-family: "Montserrat", sans-serif;
     font-size: 18px;
     font-weight: bold;
     line-height: 1.11;
@@ -10319,7 +10320,7 @@ body.boxed .portfolio-item .entry-thumbnail .entry-hover-wrapper .entry-hover-in
 
 .darna-testimonial.style2 .darna-testimonial-item>span,
 .darna-testimonial.style3 .darna-testimonial-item>span {
-    font-family: 'Lato';
+    font-family: "Montserrat", sans-serif;
     font-size: 12px;
     line-height: 1;
     color: #ffffff;
@@ -10332,7 +10333,7 @@ body.boxed .portfolio-item .entry-thumbnail .entry-hover-wrapper .entry-hover-in
 .darna-testimonial.style3 p {
     margin: 0;
     padding: 0;
-    font-family: 'Lato';
+    font-family: "Montserrat", sans-serif;
     font-size: 21px;
     font-style: italic;
     font-weight: 300;
@@ -10427,7 +10428,7 @@ body.boxed .portfolio-item .entry-thumbnail .entry-hover-wrapper .entry-hover-in
 }
 
 .darna-counter span {
-    font-family: 'Oswald';
+    font-family: "Montserrat", sans-serif;
     font-size: 60px;
     font-weight: bold;
     color: #fe4800;
@@ -10435,7 +10436,7 @@ body.boxed .portfolio-item .entry-thumbnail .entry-hover-wrapper .entry-hover-in
 }
 
 .darna-counter p {
-    font-family: 'Oswald';
+    font-family: "Montserrat", sans-serif;
     font-size: 18px;
     font-weight: 400;
     color: #ffffff;
@@ -10454,7 +10455,7 @@ body.boxed .portfolio-item .entry-thumbnail .entry-hover-wrapper .entry-hover-in
 }
 
 .darna-process.style1 h3 {
-    font-family: 'Oswald';
+    font-family: "Montserrat", sans-serif;
     font-size: 30px;
     font-weight: 400;
     color: #ffffff;
@@ -10466,7 +10467,7 @@ body.boxed .portfolio-item .entry-thumbnail .entry-hover-wrapper .entry-hover-in
 }
 
 .darna-process.style1 h2 {
-    font-family: 'Oswald';
+    font-family: "Montserrat", sans-serif;
     font-size: 32px;
     font-weight: 400;
     color: #fe4800;
@@ -10474,7 +10475,7 @@ body.boxed .portfolio-item .entry-thumbnail .entry-hover-wrapper .entry-hover-in
 }
 
 .darna-process.style1 h2 a {
-    font-family: inherit;
+    font-family: "Montserrat", sans-serif;
     font-weight: inherit;
     font-size: inherit
 }
@@ -10484,7 +10485,7 @@ body.boxed .portfolio-item .entry-thumbnail .entry-hover-wrapper .entry-hover-in
 }
 
 .darna-process.style1 p {
-    font-family: 'Lato';
+    font-family: "Montserrat", sans-serif;
     font-size: 14px;
     font-weight: 400;
     color: #ffffff;
@@ -10501,7 +10502,7 @@ body.boxed .portfolio-item .entry-thumbnail .entry-hover-wrapper .entry-hover-in
 }
 
 .darna-process.style2 h3 {
-    font-family: 'Oswald';
+    font-family: "Montserrat", sans-serif;
     font-size: 60px;
     font-weight: bold;
     color: #DDDDDD;
@@ -10511,7 +10512,7 @@ body.boxed .portfolio-item .entry-thumbnail .entry-hover-wrapper .entry-hover-in
 }
 
 .darna-process.style2 h2 {
-    font-family: 'Oswald';
+    font-family: "Montserrat", sans-serif;
     font-size: 21px;
     font-weight: 400;
     color: #222;
@@ -10521,7 +10522,7 @@ body.boxed .portfolio-item .entry-thumbnail .entry-hover-wrapper .entry-hover-in
 }
 
 .darna-process.style2 h2 a {
-    font-family: inherit;
+    font-family: "Montserrat", sans-serif;
     font-weight: inherit;
     font-size: inherit;
     color: inherit;
@@ -10533,7 +10534,7 @@ body.boxed .portfolio-item .entry-thumbnail .entry-hover-wrapper .entry-hover-in
 }
 
 .darna-process.style2 p {
-    font-family: 'Lato';
+    font-family: "Montserrat", sans-serif;
     font-size: 14px;
     font-weight: 400;
     color: #8F8F8F;
@@ -10885,19 +10886,19 @@ body.boxed .portfolio-item .entry-thumbnail .entry-hover-wrapper .entry-hover-in
 
 .darna-heading-media {
     text-transform: uppercase;
-    font-family: 'Oswald';
+    font-family: "Montserrat", sans-serif;
     color: #fe4800;
     font-size: 32px
 }
 
 .darna-heading-media span {
     color: #222;
-    font-family: inherit;
+    font-family: "Montserrat", sans-serif;
     font-size: inherit
 }
 
 .darna-accordion.style1 .wpb_accordion_heading {
-    font-family: 'Oswald';
+    font-family: "Montserrat", sans-serif;
     font-size: 24px;
     color: #222;
     line-height: 1;
@@ -10915,7 +10916,7 @@ body.boxed .portfolio-item .entry-thumbnail .entry-hover-wrapper .entry-hover-in
 .darna-accordion.style1 .wpb_content_element .wpb_accordion_wrapper .wpb_accordion_header {
     background-color: #ffffff;
     border: 1px solid #ececec;
-    font-family: 'Lato';
+    font-family: "Montserrat", sans-serif;
     font-size: 14px;
     font-weight: 400;
     line-height: 1
@@ -10926,7 +10927,7 @@ body.boxed .portfolio-item .entry-thumbnail .entry-hover-wrapper .entry-hover-in
 }
 
 .darna-accordion.style1 .wpb_content_element .wpb_accordion_wrapper .wpb_accordion_header a {
-    font-family: inherit;
+    font-family: "Montserrat", sans-serif;
     font-size: inherit;
     font-weight: inherit;
     color: #292929;
@@ -10961,7 +10962,7 @@ body.boxed .portfolio-item .entry-thumbnail .entry-hover-wrapper .entry-hover-in
 }
 
 .darna-tab.style1 .wpb_tabs_heading {
-    font-family: 'Oswald';
+    font-family: "Montserrat", sans-serif;
     font-size: 24px;
     color: #222;
     line-height: 1;
@@ -11004,7 +11005,7 @@ body.boxed .portfolio-item .entry-thumbnail .entry-hover-wrapper .entry-hover-in
 }
 
 .darna-tab.style1 .wpb_content_element .wpb_tour_tabs_wrapper .wpb_tabs_nav a {
-    font-family: 'Lato';
+    font-family: "Montserrat", sans-serif;
     font-size: 14px;
     font-weight: 400;
     line-height: 1;
@@ -11048,7 +11049,7 @@ body.boxed .portfolio-item .entry-thumbnail .entry-hover-wrapper .entry-hover-in
     background-color: #ffffff;
     border: 1px solid #ececec;
     border-bottom: 0;
-    font-family: 'Lato';
+    font-family: "Montserrat", sans-serif;
     font-size: 14px;
     line-height: 1;
     color: #222;
@@ -11087,7 +11088,7 @@ body.boxed .portfolio-item .entry-thumbnail .entry-hover-wrapper .entry-hover-in
 }
 
 .vc_tta-container>h2 {
-    font-family: 'Oswald';
+    font-family: "Montserrat", sans-serif;
     font-size: 24px;
     color: #222;
     line-height: 1;
@@ -11118,7 +11119,7 @@ body.boxed .portfolio-item .entry-thumbnail .entry-hover-wrapper .entry-hover-in
 
 .vc_tta-accordion.vc_tta-style-accordion_style1 .vc_tta-panel-title,
 .vc_tta-style-tab_style1 .vc_tta-panel-title {
-    font-family: 'Lato';
+    font-family: "Montserrat", sans-serif;
     font-size: 14px;
     line-height: 1;
     color: #292929
